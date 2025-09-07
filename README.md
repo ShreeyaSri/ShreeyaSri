@@ -4,21 +4,23 @@
 
 # 🌸 Shreeya Srivastava  
 
-*Blockchain & Full-Stack Developer | Cloud & AI Enthusiast*  
-CSE (Blockchain) @ VIT Vellore ’26  
+💻 *Blockchain & Full-Stack Developer | Cloud & AI Enthusiast*  
+🎓 CSE (Blockchain) @ VIT Vellore ’26  
 
-📧 intelshreeya25@gmail.com | 🌐 [LinkedIn](http://www.linkedin.com/in/shreeya-srivastava-a0853a258) | 🖥 [GitHub](https://github.com/ShreeyaSri)
+📧 intelshreeya25@gmail.com · 🌐 [LinkedIn](http://www.linkedin.com/in/shreeya-srivastava-a0853a258) · 🖥 [GitHub](https://github.com/ShreeyaSri)
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 
 </div>
 
-## 🚀 About Me  
+---
 
-✨ Passionate about *building secure, scalable systems* at the intersection of *Blockchain, Cloud, and AI*.  
-🌱 Currently working on a *Blockchain-based Medical Record System* (IPFS + Authentication).  
-🎯 Always exploring *new frameworks, cloud tech, and smart contract integrations*.  
-🎭 Outside of tech, I bring creativity from *dramatics & robotics* into problem solving.  
+## ✨ About Me  
+
+- 🔭 Working on: *Blockchain-based Medical Record System (IPFS + Authentication)*  
+- 🌱 Exploring: *Solidity, AWS, Netlify, Advanced React.js*  
+- 🏅 Certified in *Google Digital Marketing* & *Microsoft Azure AI Fundamentals*  
+- 🎭 Passionate about *blending creativity from dramatics with logic from coding*  
 
 ---
 
@@ -26,28 +28,29 @@ CSE (Blockchain) @ VIT Vellore ’26
 
 <div align="center">
 
-| Languages | Frameworks | Databases | Cloud & Tools |
-|-----------|------------|-----------|---------------|
-| Java, C, C++, JavaScript, Solidity | React.js, Node.js | MySQL, MongoDB | AWS, Netlify, Git & GitHub |
+| 💡 Languages | ⚡ Frameworks | 🗄 Databases | ☁ Cloud & Tools |
+|--------------|--------------|--------------|-----------------|
+| Java · C · C++ · JavaScript · Solidity | React.js · Node.js | MySQL · MongoDB | AWS · Netlify · Git/GitHub |
 
 </div>  
 
 ---
 
-## 💡 Projects  
+## 🚀 Projects  
 
-🔹 *Blockchain Medical Record System*  
-- Decentralized medical data storage using Blockchain & IPFS.  
-- Integrated *real-time visualization & authentication* for secure access.  
+🌐 *Blockchain Medical Record System*  
+✔ Decentralized data storage on *Blockchain + IPFS*  
+✔ Real-time *visualization & authentication*  
 
-🔹 *Personal Portfolio Website*  
-- Built with *React.js & Tailwind CSS, featuring **dark/light mode* and animations (Framer Motion).  
+💻 *Personal Portfolio Website*  
+✔ Built with *React.js & Tailwind CSS*  
+✔ Added *Dark/Light mode + Animations (Framer Motion)*  
 
 ---
 
 ## 🏆 Certifications  
 
-- 🏅 *Google Skillshop* – Fundamentals of Digital Marketing (2025)  
+- 📘 *Google Skillshop* – Fundamentals of Digital Marketing (2025)  
 - ☁ *Microsoft Azure* – AI Fundamentals (2024)  
 
 ---
@@ -56,7 +59,8 @@ CSE (Blockchain) @ VIT Vellore ’26
 
 - 🥇 *Stage Play Winner* – Festember’24 (NIT Trichy)  
 - 🥈 *Stage Play Runner-up* – Saarang’25 (IIT Madras)  
-- 🤖 *RoboVITics* – Built & programmed Arduino-based vehicle prototype  
+- 🎤 *Street Play & Mime* – BITS Hyderabad · VIT Vellore  
+- 🤖 *RoboVITics* – Built an *Arduino-powered navigation vehicle*  
 
 ---
 
@@ -64,9 +68,9 @@ CSE (Blockchain) @ VIT Vellore ’26
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreeyaSri&show_icons=true&theme=gradient&hide_border=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShreeyaSri&theme=gradient&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreeyaSri&layout=compact&theme=gradient&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreeyaSri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ShreeyaSri&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreeyaSri&layout=compact&theme=tokyonight&hide_border=true)  
 
 </div>
 
@@ -74,8 +78,8 @@ CSE (Blockchain) @ VIT Vellore ’26
 
 <div align="center">
 
-✨ "I blend creativity from dramatics 🎭 with logic from coding 💻 to design impactful solutions." ✨  
+🌸 “I love creating secure & scalable solutions while bringing creativity from dramatics into tech!” 🌸  
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 </div>
